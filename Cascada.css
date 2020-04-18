@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    font-family: 'Ewert',cursive;
+    font-size: 50px;
+}
+div{
+    text-align: center;
+    font-family: fantasy;
+    font-size: large;
+}
+#logo{
+    display: block;
+    margin: auto;
+    border-color: crimson;
+    border-width:medium;
+    border-style: solid;
+    border-radius: 50%;
+}
+ul {
+    display: flex;
+    justify-content:center;
+}
+li{
+    margin:auto;
+}
+ol{
+    margin: auto;
+}
+table{
+    margin: auto;
+}
+body{
+    background-image: url(Imagenes/ssr.png);
+    background-color: orchid;
+    background-position: center;
+    background-attachment: scroll;
+    background-blend-mode: soft-light;
+    background-repeat: no-repeat;
+}
